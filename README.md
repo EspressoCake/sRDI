@@ -1,3 +1,5 @@
+NOTE: This fork modifies SRDI so that it may load a DLL embedded as a resource or provided as a packed command-line argument. This lets you run native DLLs from memory using something like execute-assembly.
+
 # sRDI - Shellcode Reflective DLL Injection
 sRDI allows for the conversion of DLL files to position independent shellcode.
 
